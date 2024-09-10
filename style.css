@@ -1,3 +1,9 @@
 body {
     background-color: rgb(255, 215, 57);
 }
+
+p {
+     color: rgb(0, 0, 0);
+}
+
+h1 {font-style: oblique;}
